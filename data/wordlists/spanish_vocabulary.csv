@@ -1,0 +1,11 @@
+palabra,translation,nivel,tipo
+hola,hello,A1,greeting
+gracias,thank you,A1,courtesy
+por favor,please,A1,courtesy
+excuse me,perdón,A1,courtesy
+buenos días,good morning,A1,greeting
+buenas tardes,good afternoon,A1,greeting
+buenas noches,good evening/night,A1,greeting
+adónde,where to,A2,question
+cómo,how,A1,question
+cuándo,when,A2,question

@@ -1,0 +1,24 @@
+llama-index==0.10.57
+llama-parser==0.0.85
+openai==1.40.0
+python-dotenv==1.0.1
+pandas==2.2.2
+tabulate==0.9.0
+tavily-python==0.3.3
+numpy==1.26.4
+pathlib2==2.3.7
+typing-extensions==4.12.2
+
+# Development dependencies
+pytest==8.2.2
+pytest-cov==5.0.0
+black==24.4.2
+flake8==7.1.0
+mypy==1.10.1
+pre-commit==3.7.1
+
+# Optional dependencies for enhanced features
+Pillow==10.4.0  # Image processing
+matplotlib==3.9.0  # Plotting and visualization
+seaborn==0.13.2  # Statistical visualization
+scikit-learn==1.5.0  # ML utilities
